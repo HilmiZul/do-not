@@ -1,0 +1,19 @@
+body {
+  margin: 20px;
+}
+
+.donat {
+  width: 200px;
+  height: 150px;
+  background-color: #525252;
+  border-radius: 50%;
+}
+
+.donat:hover {
+  width: 200px;
+  height: 200px;
+  border: 200px solid #c63434;
+  border-radius: 50%;
+  background-color: transparent;
+  transition: 1s ease-in-out;
+}
